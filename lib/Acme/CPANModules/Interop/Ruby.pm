@@ -9,7 +9,7 @@ use strict;
 # VERSION
 
 our $LIST = {
-    summary => "Modules/applications that help interoperate with the Ruby world",
+    summary => "List of modules/applications that help interoperate with the Ruby world",
     entries => [
         {
             module => 'Inline::Ruby',
